@@ -1,6 +1,6 @@
 # Project Overview
 
-For this project, I used stock data to analyze and understabd the trends. To achieve the analysis, I used VBA which is often the program used to analyze data in the financial industry.
+For this project, I used stock data to analyze and understand the trends. To achieve the analysis, I used VBA which is often the program used to analyze data in the financial industry.
 
 To start, I looked at how actively DQ was traded in 2018. This will help determine whether a stock that is traded often, will accurately reflect the value of the stock. 
 
