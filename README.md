@@ -18,6 +18,10 @@ Next, I looked at how DQ performed in 2018. And to measure this, calculate the y
 
 4. To check both conditions at once use logical operators.
 
+#### Finding
+
+Daqo dropped over 63% in 2018, this analysis shows that DQ is not recommended stock to invest in.
+
 # Challenge
 Created an analysis for the stock market for Steve to compare stocks and inform his parents which one is the best option.
 The analysis is refactored using 4 different loops in order to allow for multiple stock analysis. 
