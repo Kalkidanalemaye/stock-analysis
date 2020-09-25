@@ -8,6 +8,10 @@ To start, I looked at how actively DQ was traded in 2018. This will help determi
 
 2. To calculate the total daily volume in 2018 use loops, which is a process of iterating through a dataset repeatedly.
 
+Next, I looked at how DQ performed in 2018. And to measure this, calculate the yearly return for DQ. The yearly return is the percentage increase or decrease in price from the beginning of the year to the end of the year.
+
+
+
 # Challenge
 Created an analysis for the stock market for Steve to compare stocks and inform his parents which one is the best option.
 The analysis is refactored using 4 different loops in order to allow for multiple stock analysis. 
