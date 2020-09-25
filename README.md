@@ -48,4 +48,6 @@ In order, to implement an efficient method of coding I refactored the initial co
 
 This process of refactoring our code saves us the time that the code needs to loop through the data.
 
-After refactoring our code, we can turn our attention to the data. In 2017, our 12 stocks were all showing green for their return rate except for one. However, when you analyze the same stocks in 2018, most of their return rates were in the negatives, with an exception of two that were showing positive. This only shows a glimpse of how these stocks were doing in 2017 and 2018, but more information and further analysis is needed to determine which stocks are worth investing in and which are not.
+### Finding
+
+In 2017, all stocks were showing green for their return rate except for one. However, the same stocks in 2018 had a negative return rate exceptfor 2 of the stocks. More analysis is required to determine which stocks are good to invest in.
